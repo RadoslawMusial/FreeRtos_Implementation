@@ -1,0 +1,39 @@
+./objects/heap_4.o: \
+  C:\Users\onlyn\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\portable\MemMang\heap_4.c \
+  RTE\_default\Pre_Include_Global.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\stdlib.h \
+  C:\Users\onlyn\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\FreeRTOS.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\stddef.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\stdint.h \
+  RTE\RTOS\FreeRTOSConfig.h RTE\_default\RTE_Components.h \
+  C:\Users\onlyn\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h \
+  C:\Users\onlyn\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\stm32f429xx.h \
+  C:\Users\onlyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\core_cm4.h \
+  C:\Users\onlyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_version.h \
+  C:\Users\onlyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_compiler.h \
+  C:\Users\onlyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\cmsis_armclang.h \
+  C:\Users\onlyn\AppData\Local\Arm\Packs\ARM\CMSIS\5.9.0\CMSIS\Core\Include\mpu_armv7.h \
+  C:\Users\onlyn\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h \
+  C:\Users\onlyn\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal.h \
+  RTE\Device\STM32F429ZITx\stm32f4xx_hal_conf.h \
+  C:\Users\onlyn\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_rcc.h \
+  C:\Users\onlyn\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_def.h \
+  C:\Users\onlyn\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\STM32F4xx_HAL_Driver\Inc\Legacy\stm32_hal_legacy.h \
+  C:\Users\onlyn\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_rcc_ex.h \
+  C:\Users\onlyn\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_gpio.h \
+  C:\Users\onlyn\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_gpio_ex.h \
+  C:\Users\onlyn\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_cortex.h \
+  C:\Users\onlyn\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_flash.h \
+  C:\Users\onlyn\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_flash_ex.h \
+  C:\Users\onlyn\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_flash_ramfunc.h \
+  C:\Users\onlyn\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_pwr.h \
+  C:\Users\onlyn\AppData\Local\Arm\Packs\Keil\STM32F4xx_DFP\2.16.0\Drivers\STM32F4xx_HAL_Driver\Inc\stm32f4xx_hal_pwr_ex.h \
+  C:\Users\onlyn\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\CMSIS\RTOS2\FreeRTOS\Include\freertos_evr.h \
+  C:\Keil_v5\ARM\ARMCLANG\Bin\..\include\string.h \
+  C:\Users\onlyn\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\projdefs.h \
+  C:\Users\onlyn\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\portable.h \
+  C:\Users\onlyn\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\deprecated_definitions.h \
+  C:\Users\onlyn\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\portable\GCC\ARM_CM4F\portmacro.h \
+  C:\Users\onlyn\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\mpu_wrappers.h \
+  C:\Users\onlyn\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\task.h \
+  C:\Users\onlyn\AppData\Local\Arm\Packs\ARM\CMSIS-FreeRTOS\10.4.3\Source\include\list.h
